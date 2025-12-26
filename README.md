@@ -6,6 +6,10 @@
   <h3>
     CTO @ AdKaora | CO-FOUNDER @ Mobybit
   </h3>
+  </h1>
+  <h3>
+    [Il mio sito](https://faripod.dev/)
+  </h3>
 </div>
 
 ---
