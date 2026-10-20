@@ -1,57 +1,28 @@
-<div align="center">
+# Nicholas Farinato
 
-  <h1>
-    Ciao 👋, sono Nicolas Farinato
-  </h1>
-  <h3>
-    CTO @ AdKaora | CO-FOUNDER @ Mobybit
-  </h3>
-  </h1>
-  <h3>
-    [Il mio sito](https://faripod.dev/)
-  </h3>
-</div>
+CTO @ AdKaora · Co-founder @ Mobybit
 
----
+Progetto architetture software e scrivo codice. Lavoro soprattutto con Python, FastAPI, React e TypeScript, su AWS con infrastruttura gestita in Terraform.
 
-### 👨‍💻 Chi Sono
+Qui pubblico strumenti che costruisco per usarli, esperimenti e progetti personali. Ultimamente lavoro molto con gli agenti di sviluppo: come dare loro il contesto giusto, verificare quello che producono e integrarli nel mio modo di lavorare.
 
-Sono un professionista della tecnologia con una missione chiara: progettare e costruire software che **scala**.
+## Cosa sto costruendo
 
-Oltre al mio ruolo di **CTO in AdKaora**, sono il co-fondatore di **Mobybit**, un collettivo di sviluppatori con cui produco soluzioni software a 360 gradi, curando l'intero ciclo di vita del prodotto.
+### [radio-hq](https://github.com/Faripod/radio-hq)
 
-Sono uno sviluppatore con solide competenze in:
-* **Front-end**
-* **Back-end**
-* **Database** (progettazione e ottimizzazione)
-* **DevOps** (CI/CD e automazione)
+Con più sessioni di Claude Code aperte, è facile non accorgersi di quella che aspetta un tuo ok. Su macOS, radio-hq la annuncia con un banner, un suono e una voce da walkie-talkie. Nel repository trovi la demo e le istruzioni per provarlo.
 
----
+### [terminal-hq](https://github.com/Faripod/terminal-hq)
 
-### 🚀 Il mio Stack Tecnologico
+Il mio terminale su macOS: verde su nero, a tendina con F12, con iTerm2, zsh e gli strumenti che uso. L'installazione salva quello che cambia e la disinstallazione ripristina le impostazioni precedenti. Nel repository trovi una demo del risultato.
 
-Sono un grande fan di **Linux** e questo è l'ecosistema in cui preferisco operare:
+## Come lavoro
 
-* **Linguaggi & Framework:** Python, React
-* **Cloud:** Profonda esperienza con **AWS** e le sue soluzioni.
-* **Database:** Esperto in soluzioni Relazionali (SQL), Non-Relazionali (NoSQL) e a Grafi (GraphDB).
+Prima capisco il problema, poi scelgo cosa costruire. Preferisco pezzi piccoli, nomi chiari e poche dipendenze. I test li faccio contro lo stack vero.
 
----
+Nel [CODEX](https://faripod.dev/codex) scrivo delle scelte dietro il codice. Due punti da cui partire:
 
-### 🔬 Ricerca e Diletto
+- [Il Protocollo di Interrogatorio](https://faripod.dev/codex/interrogation-protocol): capire il bisogno dietro una richiesta, prima di implementarla.
+- [L'Atomo di Conoscenza](https://faripod.dev/codex/knowledge-atom): organizzare la conoscenza perché un agente trovi quello che gli serve quando gli serve.
 
-Uso GitHub per diletto e come archivio per le mie ricerche personali, tesi e analisi approfondite.
-
-DA IMPLEMENTARE :)
-* 📄 **[TITOLO DELLA TUA NUOVA TESI/ARTICOLO]** -> **[LINK-AL-NUOVO-REPO-TESI]**
-* 🎓 **[TITOLO TESI DI SCUOLA]** -> **[LINK-AL-VECCHIO-REPO-TESI]** * 🔬 **[NOME DI UN ALTRO PROGETTO INTERESSANTE]** -> **[LINK-AL-REPO-PROGETTO]**
-
----
-
-### 🔗 Connettiamoci
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/faripod/" target="_blank">
-    Linkedin
-  </a>
-</p>
+[Sito e altri progetti](https://faripod.dev/) · [LinkedIn](https://www.linkedin.com/in/faripod/)
